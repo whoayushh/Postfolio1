@@ -1,2 +1,2 @@
 # Portfolio1
-Preview:https://main--gilded-fudge-dba4f0.netlify.app/
+Preview: https://portfolio1-three-taupe.vercel.app/
