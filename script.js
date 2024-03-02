@@ -8,7 +8,7 @@ function toggleMode(){
     const body=document.body;
     body.classList.toggle("dark-mode");
 }
-let isDragging = false;
+let isDragging = false;  
 let offsetX, offsetY;
 
 function startDrag(e) {
